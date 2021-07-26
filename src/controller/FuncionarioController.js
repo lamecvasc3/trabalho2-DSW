@@ -1,4 +1,3 @@
-const { destroy } = require('../models/Funcionario');
 const Funcionario = require('../models/Funcionario')
 
 module.exports =  {
